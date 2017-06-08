@@ -1,0 +1,22 @@
+
+.modal-header{
+    background: #405366;
+    color: white;
+}
+.modal-footer{
+    background: #F5F5F5;
+}
+
+.modal{ 
+    width: 100%; 
+    height: 100%; 
+    top: 0; 
+    left: 0;    
+}
+@media screen and (max-width: 600px) {
+    .modal{ 
+        width: auto;
+        height: auto;
+        position: absolute;
+    }
+}

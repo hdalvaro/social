@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-05-02 12:28:17 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:28:36 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:34:24 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:34:26 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:34:28 --> 404 Page Not Found: admin/NovoAluno/Inserir
+ERROR - 2017-05-02 12:34:51 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:34:52 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:34:53 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:34:55 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:34:58 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:35:00 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:38:24 --> 404 Page Not Found: admin/NovoAluno/Inserir
+ERROR - 2017-05-02 12:38:29 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:38:42 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-02 12:38:43 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:38:51 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:41:00 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:41:07 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:42:11 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:43:17 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:45:46 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:45:55 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:46:18 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:46:37 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:48:05 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:48:42 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:50:17 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:50:27 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:51:53 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:52:58 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:53:12 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:54:41 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-02 12:54:49 --> 404 Page Not Found: admin/Assets/img

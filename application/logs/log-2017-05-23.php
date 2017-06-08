@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-05-23 15:10:41 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:13:52 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:13:58 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:13:59 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:14:01 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:15:21 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:28:09 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:28:11 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:28:12 --> 404 Page Not Found: admin/NovaEscolaridade/assets
+ERROR - 2017-05-23 15:28:15 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:28:17 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:28:19 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:38:49 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:43:17 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:43:19 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:46:30 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:48:01 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:48:36 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:48:58 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:49:46 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:49:54 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:51:03 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:51:05 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:52:58 --> 404 Page Not Found: admin/Assets/img
+ERROR - 2017-05-23 15:53:00 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:56:07 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 15:56:43 --> Severity: Parsing Error --> syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' C:\wamp\www\sas\application\models\ReportModel.php 18
+ERROR - 2017-05-23 16:10:13 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 16:11:06 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 16:11:08 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 16:11:11 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 16:11:29 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 16:12:42 --> 404 Page Not Found: Assets/img
+ERROR - 2017-05-23 16:12:45 --> 404 Page Not Found: admin/NovaPessoa/assets
+ERROR - 2017-05-23 16:12:54 --> 404 Page Not Found: admin/NovaPessoa/assets
+ERROR - 2017-05-23 16:12:56 --> 404 Page Not Found: admin/NovaPessoa/assets
+ERROR - 2017-05-23 16:13:05 --> 404 Page Not Found: admin/NovaPessoa/assets
+ERROR - 2017-05-23 16:14:16 --> 404 Page Not Found: admin/NovaPessoa/assets
